@@ -1,6 +1,5 @@
 body {
   background-color: #152136;
-  text-align: center;
 }
 
 h1 {
@@ -15,25 +14,67 @@ h3 {
   color: #FFFFFF;
 }
 
-.navbar {
-  float:left;
+p {
+  color: #FFFFFF;
+}
+
+.navbar img {
+  width: 80px;
+  height: 80px;
+  margin-left: 30%;
+  margin-top: 30%;
 }
 
 .about {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-bottom: 100px;
 }
 
-.about img {
-  height: 70%;
+.about a {
+  margin-top: 24px;
+  padding: 10px;
+  background-color: #FAA900;
+  color: #FFFFFF;
+}
+
+.about a:hover {
+  text-decoration: none;
+}
+
+.about h4 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #FFF;
+}
+
+.banner {
+  margin-top: 100px;
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .values {
+  width: 75%;
 }
 
 .value {
   float: left;
   width: 33.33%;
+  padding-right: 30px;
+}
+
+.feature_logo {
+  height: 80%;
+  width: 80%;
+  margin-bottom: 10px;
+}
+.value svg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .team {
