@@ -7,7 +7,8 @@ h1 {
 }
 
 h2 {
-
+  color: #FFFFFF;
+  text-align: center;
 }
 
 h3 {
@@ -69,6 +70,7 @@ p {
   width: 80%;
   margin-bottom: 10px;
 }
+
 .value svg {
   display: block;
   margin-left: auto;
@@ -77,6 +79,67 @@ p {
   margin-bottom: 10px;
 }
 
+.eventTimeline {
+    width: 1000px;
+    margin: auto;
+}
+
+#event {
+    margin-left: 62px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#eventImg {
+    width: 100px;
+    margin: auto;
+}
+
 .team {
 
+}
+
+#team-img {
+    margin-left: 62px;
+    width: 150px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    margin-bottom: 10px;
+
+}
+
+.contact {
+    margin: auto;
+    text-align: center;
+}
+
+.contact h2 {
+  margin-bottom: 50px;
+}
+
+.contact a {
+  color: #FFFFFF;
+}
+
+.sparklogo {
+    margin: auto;
+    height: 10px;
+}
+
+#spark {
+    width: 200px;
+    margin: auto;
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer {
+    height: 10px;
+    padding: 10px;
+    text-align: center;
 }
