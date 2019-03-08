@@ -1,21 +1,39 @@
 body {
   background-color: #152136;
+  text-align: center;
 }
 
 h1 {
   color: #FFFFFF;
 }
 
+h2 {
+
+}
+
 h3 {
   color: #FFFFFF;
 }
 
-.about {
-
+.navbar {
+  float:left;
 }
 
-.features {
+.about {
+  margin-left: 20%;
+  margin-right: 20%;
+}
 
+.about img {
+  height: 70%;
+}
+
+.values {
+}
+
+.value {
+  float: left;
+  width: 33.33%;
 }
 
 .team {
