@@ -27,7 +27,7 @@ p {
 }
 
 .about {
-  margin-bottom: 100px;
+  margin-bottom: 140px;
 }
 
 .about a {
@@ -56,13 +56,11 @@ p {
 }
 
 .values {
-  width: 75%;
+  margin-bottom: 120px;
 }
 
-.value {
-  float: left;
-  width: 33.33%;
-  padding-right: 30px;
+.values h2 {
+  margin-bottom: 30px;
 }
 
 .feature_logo {
